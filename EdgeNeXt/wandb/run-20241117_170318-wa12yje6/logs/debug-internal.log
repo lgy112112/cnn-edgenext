@@ -1,0 +1,8 @@
+{"time":"2024-11-17T17:03:19.621015778Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-17T17:03:19.621044989Z","level":"INFO","msg":"created symlink","path":"/teamspace/studios/this_studio/EdgeNeXt/wandb/run-20241117_170318-wa12yje6/logs/debug-core.log"}
+{"time":"2024-11-17T17:03:19.724950388Z","level":"INFO","msg":"created new stream","id":"wa12yje6"}
+{"time":"2024-11-17T17:03:19.725000309Z","level":"INFO","msg":"stream: started","id":"wa12yje6"}
+{"time":"2024-11-17T17:03:19.72502352Z","level":"INFO","msg":"writer: Do: started","stream_id":"wa12yje6"}
+{"time":"2024-11-17T17:03:19.72505302Z","level":"INFO","msg":"sender: started","stream_id":"wa12yje6"}
+{"time":"2024-11-17T17:03:19.72503284Z","level":"INFO","msg":"handler: started","stream_id":"wa12yje6"}
+{"time":"2024-11-17T17:03:19.898321254Z","level":"INFO","msg":"Starting system monitor"}

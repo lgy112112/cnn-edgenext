@@ -1,0 +1,15 @@
+Epoch [1/200]
+                                                                                  
+New best model saved to best_edgenextdual.pth with Validation Accuracy: 0.2161
+Epoch [2/200]
+New best model saved to best_edgenextdual.pth with Validation Accuracy: 0.2633
+Epoch [3/200]
+New best model saved to best_edgenextdual.pth with Validation Accuracy: 0.4150
+Epoch [4/200]
+Epoch [5/200]
+New best model saved to best_edgenextdual.pth with Validation Accuracy: 0.4783
+Epoch [6/200]
+New best model saved to best_edgenextdual.pth with Validation Accuracy: 0.4883
+Epoch [7/200]
+New best model saved to best_edgenextdual.pth with Validation Accuracy: 0.5111
+Epoch [8/200]

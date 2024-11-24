@@ -1,0 +1,22 @@
+{"time":"2024-11-17T16:32:20.545935627Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-17T16:32:20.545959507Z","level":"INFO","msg":"created symlink","path":"/teamspace/studios/this_studio/EdgeNeXt/wandb/run-20241117_163218-gj2h5uwc/logs/debug-core.log"}
+{"time":"2024-11-17T16:32:20.649429783Z","level":"INFO","msg":"created new stream","id":"gj2h5uwc"}
+{"time":"2024-11-17T16:32:20.649467823Z","level":"INFO","msg":"stream: started","id":"gj2h5uwc"}
+{"time":"2024-11-17T16:32:20.649484184Z","level":"INFO","msg":"writer: Do: started","stream_id":"gj2h5uwc"}
+{"time":"2024-11-17T16:32:20.649512014Z","level":"INFO","msg":"sender: started","stream_id":"gj2h5uwc"}
+{"time":"2024-11-17T16:32:20.649496744Z","level":"INFO","msg":"handler: started","stream_id":"gj2h5uwc"}
+{"time":"2024-11-17T16:32:20.802220816Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-17T16:34:06.482105997Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T16:34:08.976338751Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T16:34:09.021270331Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-17T16:34:09.021884361Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-17T16:34:09.160141439Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-17T16:34:09.160160249Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-17T16:34:09.16016718Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-17T16:34:09.437842605Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-17T16:34:09.689324089Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-17T16:34:10.701028219Z","level":"INFO","msg":"stream: closing","id":"gj2h5uwc"}
+{"time":"2024-11-17T16:34:10.701072779Z","level":"INFO","msg":"handler: closed","stream_id":"gj2h5uwc"}
+{"time":"2024-11-17T16:34:10.70108535Z","level":"INFO","msg":"writer: Close: closed","stream_id":"gj2h5uwc"}
+{"time":"2024-11-17T16:34:10.70109571Z","level":"INFO","msg":"sender: closed","stream_id":"gj2h5uwc"}
+{"time":"2024-11-17T16:34:10.701186131Z","level":"INFO","msg":"stream: closed","id":"gj2h5uwc"}

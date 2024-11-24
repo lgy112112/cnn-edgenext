@@ -1,0 +1,24 @@
+{"time":"2024-11-17T16:26:46.885101454Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-17T16:26:46.885123405Z","level":"INFO","msg":"created symlink","path":"/teamspace/studios/this_studio/EdgeNeXt/wandb/run-20241117_162646-r1l8k3c3/logs/debug-core.log"}
+{"time":"2024-11-17T16:26:46.988736815Z","level":"INFO","msg":"created new stream","id":"r1l8k3c3"}
+{"time":"2024-11-17T16:26:46.988775615Z","level":"INFO","msg":"stream: started","id":"r1l8k3c3"}
+{"time":"2024-11-17T16:26:46.988802936Z","level":"INFO","msg":"writer: Do: started","stream_id":"r1l8k3c3"}
+{"time":"2024-11-17T16:26:46.988870757Z","level":"INFO","msg":"sender: started","stream_id":"r1l8k3c3"}
+{"time":"2024-11-17T16:26:46.988977999Z","level":"INFO","msg":"handler: started","stream_id":"r1l8k3c3"}
+{"time":"2024-11-17T16:26:47.115330566Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-17T16:26:49.28169835Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T16:28:15.857177021Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T16:28:15.898021132Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-17T16:28:27.067426018Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-17T16:28:27.121242697Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-17T16:28:27.121794516Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-17T16:28:27.237375269Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-17T16:28:27.237407369Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-17T16:28:27.237415939Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-17T16:28:27.519002676Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-17T16:28:27.620809816Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-17T16:28:28.63269202Z","level":"INFO","msg":"stream: closing","id":"r1l8k3c3"}
+{"time":"2024-11-17T16:28:28.632858912Z","level":"INFO","msg":"handler: closed","stream_id":"r1l8k3c3"}
+{"time":"2024-11-17T16:28:28.632876063Z","level":"INFO","msg":"writer: Close: closed","stream_id":"r1l8k3c3"}
+{"time":"2024-11-17T16:28:28.632890703Z","level":"INFO","msg":"sender: closed","stream_id":"r1l8k3c3"}
+{"time":"2024-11-17T16:28:28.632942474Z","level":"INFO","msg":"stream: closed","id":"r1l8k3c3"}

@@ -1,0 +1,9 @@
+{"time":"2024-11-17T16:29:21.941959817Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-17T16:29:21.941988098Z","level":"INFO","msg":"created symlink","path":"/teamspace/studios/this_studio/EdgeNeXt/wandb/run-20241117_162920-wkd3v0wc/logs/debug-core.log"}
+{"time":"2024-11-17T16:29:22.046287661Z","level":"INFO","msg":"created new stream","id":"wkd3v0wc"}
+{"time":"2024-11-17T16:29:22.046343332Z","level":"INFO","msg":"stream: started","id":"wkd3v0wc"}
+{"time":"2024-11-17T16:29:22.046349682Z","level":"INFO","msg":"handler: started","stream_id":"wkd3v0wc"}
+{"time":"2024-11-17T16:29:22.046364882Z","level":"INFO","msg":"writer: Do: started","stream_id":"wkd3v0wc"}
+{"time":"2024-11-17T16:29:22.046368152Z","level":"INFO","msg":"sender: started","stream_id":"wkd3v0wc"}
+{"time":"2024-11-17T16:29:22.171204081Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-17T16:29:23.782156014Z","level":"INFO","msg":"Pausing system monitor"}
